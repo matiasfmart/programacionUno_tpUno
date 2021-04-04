@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.Form1.resources
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.Properties.Resources.resources
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\bin\Debug\TpObligatorio.exe.config
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\bin\Debug\TpObligatorio.exe
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\bin\Debug\TpObligatorio.pdb
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.exe
+C:\Users\Dell\source\repos\TpObligatorio\TpObligatorio\obj\Debug\TpObligatorio.pdb
